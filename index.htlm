@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vinicius Lemos | Cloud Engineer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="binary-background">
+010101010101010101010101010101010101
+101010101010101010101010101010101010
+010101010101010101010101010101010101
+</div>
+
+<header>
+  <h1>Vinicius Lemos</h1>
+  <p>Cloud Engineer | DevOps | AWS</p>
+
+  <div class="socials">
+    <a href="https://www.linkedin.com/in/vinicius-lemos-29796a169/" target="_blank">LinkedIn</a>
+    <a href="https://instagram.com/YOURINSTAGRAM" target="_blank">Instagram</a>
+  </div>
+</header>
+
+<section>
+<h2>About Me</h2>
+
+<p>
+Cloud engineering professional trained in Sydney, Australia with experience in AWS,
+automation and infrastructure as code.
+</p>
+
+</section>
+
+<section>
+<h2>Skills</h2>
+
+<ul>
+<li>AWS (EC2, S3, IAM, SNS)</li>s
+<li>Terraform</li>
+<li>Docker</li>
+<li>Linux</li>
+<li>Networking</li>
+<li>Python</li>
+</ul>
+
+</section>
+
+<section>
+<h2>Experience</h2>
+
+<h3>Princesa do Campos — Trainee</h3>
+<p>Nov 2025 — Present</p>
+
+</section>
+
+<footer>
+
+<p>Email: viniciuslemos91@hotmail.com</p>
+<p>Curitiba — Brazil</p>
+
+</footer>
+
+</body>
+</html>
