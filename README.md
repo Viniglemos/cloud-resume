@@ -33,7 +33,7 @@ AWS CLI Deployment
 ↓
 Amazon S3 Static Website Hosting
 
-Any change pushed to the **main branch** automatically triggers the pipeline, which deploys the updated website to S3.
+Any PR approval to the **main branch** automatically triggers the pipeline, which deploys the updated website to S3.
 
 ---
 
