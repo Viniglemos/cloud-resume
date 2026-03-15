@@ -1,69 +1,81 @@
 body{
 
-background:black;
+background:#0b0b0b;
 color:white;
-
-font-family:
--apple-system,
-BlinkMacSystemFont,
-Segoe UI,
-Roboto,
-sans-serif;
-
-display:flex;
-justify-content:center;
-align-items:center;
-
-height:100vh;
+font-family:system-ui;
 
 margin:0;
+padding:0;
 
 }
 
-.container{
+header{
 
 text-align:center;
+padding:80px 20px;
 
 }
 
 h1{
 
-font-size:64px;
-font-weight:600;
-letter-spacing:-1px;
+font-size:48px;
+margin-bottom:10px;
 
 }
 
-.subtitle{
+header p{
 
-color:#888;
-margin-top:10px;
-font-size:20px;
+color:#aaa;
 
 }
 
-.links{
+nav{
 
-margin-top:40px;
+margin-top:30px;
 
 }
 
-.links a{
+nav a{
 
 margin:0 15px;
-
 color:white;
 text-decoration:none;
-
-border-bottom:1px solid #444;
-padding-bottom:4px;
-
-transition:0.3s;
+border-bottom:2px solid transparent;
 
 }
 
-.links a:hover{
+nav a:hover{
 
-border-color:white;
+border-bottom:2px solid white;
+
+}
+
+section{
+
+max-width:800px;
+margin:auto;
+padding:60px 20px;
+
+}
+
+h2{
+
+margin-bottom:20px;
+
+}
+
+.project{
+
+background:#151515;
+padding:20px;
+border-radius:8px;
+
+}
+
+footer{
+
+text-align:center;
+padding:40px;
+color:#888;
 
 }
